@@ -1,0 +1,107 @@
+********** Colors ************
+
+Red > #c11325
+
+Black > #222222
+
+*********** Sections **********
+
+1. header
+2. home
+3. about
+4. services
+5. our classes
+6. start today
+7. class schedule
+8. workout gallery
+9. price
+10. contact
+
+
+*********** Site contents **********
+
+1. header
+home,about,services,classes,schedule,price,contact
+
+===================================================
+
+2. home
+It's gym time. Let's go
+we are ready to fit you
+
+learn more / Join now
+
+===================================================
+
+3. about
+
+> Best training
+> Free consultation
+> Build perfect body
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in porro nihil, perspiciatis saepe molestiae voluptatibus ipsa culpa non! Esse aliquid fuga, dolore quas non officiis dolorem consectetur nostrum eius.
+
+===================================================
+
+4. services
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in porro nihil, perspiciatis saepe molestiae voluptatibus ipsa culpa non! Esse aliquid fuga, dolore quas non officiis dolorem consectetur nostrum eius.
+
+Start now
+
+cardiovascular Equipment
+
+strength training Equipment
+
+Group fitness class
+
+other services
+
+
+===================================================
+
+5. classes
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in porro nihil, perspiciatis saepe molestiae voluptatibus.
+
+price
+
+stretching training
+
+details
+
+===================================================
+
+6. start today
+
+start your training today
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in porro nihil, perspiciatis saepe molestiae voluptatibus ipsa culpa non! Esse aliquid fuga, dolore quas non officiis dolorem consectetur nostrum eius.
+
+Start now
+
+
+===================================================
+
+7. classes schedule
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in porro nihil, perspiciatis saepe molestiae voluptatibus ipsa culpa non! Esse aliquid fuga, dolore quas non officiis dolorem consectetur nostrum eius.
+
+Day , time , exercise name , room no 
+
+
+
+===================================================
+
+8. gallery
+
+Images
+
+
+===================================================
+
+9. price
+
+price > 59/month
+Image
+heading > body building training
